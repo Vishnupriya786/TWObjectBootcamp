@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AreaOfRectangle.iml" filepath="$PROJECT_DIR$/.idea/modules/AreaOfRectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TWObjectBootcamp.iml" filepath="$PROJECT_DIR$/.idea/TWObjectBootcamp.iml" />
     </modules>
   </component>
